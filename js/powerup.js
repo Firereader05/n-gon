@@ -536,6 +536,7 @@ const powerUps = {
                         <option value="5"></option>
                         <option value="6"></option>
                         <option value="7"></option>
+                        <option value="200"></option>
                     </datalist>
                 </div>
                 <div class="right-column">
